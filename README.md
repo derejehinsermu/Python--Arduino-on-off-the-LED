@@ -1,6 +1,9 @@
 # Python--Arduino-on-off-the-LED
+
 Python Code with Arduino to Controlling LED of Arduino's on-board
+
 #install libraries
+
 Downloading and Installing OpenCV:
 
 OpenCV can be directly downloaded and installed with the use of pip (package manager). 
