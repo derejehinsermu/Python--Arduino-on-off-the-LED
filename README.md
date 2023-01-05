@@ -7,4 +7,6 @@ OpenCV can be directly downloaded and installed with the use of pip (package man
 To install OpenCV, just go to the command-line and type the following command:
 
 $pip install opencv-python3
+
+
 $pip install pyserial.
