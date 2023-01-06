@@ -4,7 +4,7 @@ Resources and Steps to start a project.
 
 
 ## Download Arduino IDe : https://www.arduino.cc/en/software
-![](Images/image1.png)
+
 
 
 ## download opencv-python:https://pypi.org/project/opencv-python/
