@@ -37,6 +37,8 @@ To install OpenCV, just go to the command-line and type the following command:
 ![](Images/image4.png)
 
 #OUtput
+
 you will see the pin number 13 is start to blink.
+
 Done!
 
