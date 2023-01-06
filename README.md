@@ -1,8 +1,14 @@
-# Python--Arduino-on-off-the-LED
+# Controlling the led using Python on Arduino board
 
-Python Code with Arduino to Controlling LED of Arduino's on-board
+Resources and Steps to start a project.
 
-#install libraries
+
+## Download Arduino IDe : https://www.arduino.cc/en/software
+![](Images/image1.png)
+
+
+## download opencv-python:https://pypi.org/project/opencv-python/
+
 
 Downloading and Installing OpenCV:
 
