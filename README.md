@@ -5,7 +5,12 @@ Resources and Steps to start a project.
 
 ## Download Arduino IDe : https://www.arduino.cc/en/software
 
+![](Images/image1.png)
 
+#Go to Arduino code folder and open the #led.ino with Arduion IDE.
+
+![](Images/image2.png)
+![](Images/image3.png)
 
 ## download opencv-python:https://pypi.org/project/opencv-python/
 
